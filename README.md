@@ -1,12 +1,9 @@
 ## Hi there 👋
 
 
-<a href="https://www.linkedin.com/in/thales-emanuel-figueiredo-45927a87/" target="_blank" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-green?style=flat-square&color=00d628">&nbsp;
-</a>
-<a href="https://www.thalesfigueiredo.dev.br" target="_blank" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Website-green?style=flat-square&color=00d628">&nbsp;
-</a>
-<a href="mailto:thales.figueiredo.corvo@gmail.com" target="_blank" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/thales.figueiredo.corvo%40gmail.com-green?style=flat-square&color=00d628">&nbsp;
-</a>
+<a href="https://www.linkedin.com/in/thales-emanuel-figueiredo-45927a87/" target="_blank" style="text-decoration: none; border: none; outline: none; box-shadow: none;"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-green?style=flat-square&color=00d628" style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://www.thalesfigueiredo.dev.br" target="_blank" style="text-decoration: none; border: none; outline: none; box-shadow: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Website-green?style=flat-square&color=00d628" style="display: inline-block; vertical-align: middle;"></a>
+<a href="mailto:thales.figueiredo.corvo@gmail.com" target="_blank" style="text-decoration: none; border: none; outline: none; box-shadow: none;"><img alt="Static Badge" src="https://img.shields.io/badge/thales.figueiredo.corvo%40gmail.com-green?style=flat-square&color=00d628" style="display: inline-block; vertical-align: middle;"></a>
 
 <br />
 
