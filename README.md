@@ -8,5 +8,13 @@
 # My name is Thales Figueiredo
 <!--
 **thalesfigueiredo/thalesfigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p>(HTML | CSS | JAVASCRIPT | PHP | React JS | Node JS | Typescript) 💻</p>
+
+<ul>
+  <li>🎓 Bachelor's degree in Computer Science</li>
+  <li>🎓 Postgraduate degree in Web Consulting</li>
+  <li>👩‍💻 Fullstack Developer Fabrica de Sistemas</li>
+  <li>🎮 Board Games and Video Game lvoer</li>
+</ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfigueiredo&hide_progress=true)
