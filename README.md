@@ -6,7 +6,7 @@
 
 # My name is Thales Figueiredo
 
-<p>(HTML | CSS | Javascript | PHP | React JS | Node JS | Typescript) 💻</p>
+<p>(HTML5 | CSS3 | Javascript | PHP | React JS | Node JS | Typescript | MySQL | PostgreSQL | Docker | Git | GitHub) 💻</p>
 
 <ul>
   <li>🎓 Bachelor's degree in Computer Science</li>
