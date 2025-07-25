@@ -15,4 +15,4 @@
   <li>🎮 Board Games and Video Game lover</li>
 </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfigueiredo&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfigueiredo&layout=compact&theme=graywhite&hide_border=true&border_radius=10)
