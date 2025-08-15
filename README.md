@@ -11,6 +11,7 @@
 <ul>
   <li>🎓 Bachelor's degree in Computer Science</li>
   <li>🎓 Postgraduate degree in Web Consulting</li>
+  <li>🎓 Postgraduate degree in Internet of Things</li> 
   <li>👩‍💻 Fullstack Developer Fabrica de Sistemas</li>
   <li>🎮 Board Games and Video Game lover</li>
 </ul>
